@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Exerices"
+      name = "Exerices">
+      <Group
+         location = "group:Exerice1"
+         name = "Exerice1">
+         <FileRef
+            location = "group:/Users/user/Documents/Project-IOS/Exerices/DaiCuongiOS/Exerices/Exerice1/Exerice1.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Exerice2"
+         name = "Exerice2">
+         <FileRef
+            location = "group:Exerice2.playground">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
